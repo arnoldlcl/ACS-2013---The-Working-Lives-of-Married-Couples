@@ -1,24 +1,5 @@
-# Project: American Community Survey
-### Script learning project on American Community Survey
+# The Working Lives of Married Couples with "Lazy" Spouses
 
-Term: Spring 2016, First project
+Inspired by the Kaggle scripting challenge using data from the 2013 American Community Survey, this is an R Markdown file (available in doc/final_draft.Rmd) exploring the relationship between income, education, and in particular the dynamics of families where only one out of two participants in the marriage tango are "in the labor force" (i.e. employed or actively seeking employment). 
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
-
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
-
-Please see each subfolder for a README file.
-
-###Project One
-####Member
-yw2761:Yicheng Wang       
-acl2192:Arnold Lau      
-al3472: Ao Liu      
-yz2690: Yanyu Zhang       
+This exploration was developed by myself, Yicheng Wang, Ao Liu and Yanyu Zhang from Columbia University in Spring 2016 for a class in Applied Data Science under Dr. Tian Zheng.
